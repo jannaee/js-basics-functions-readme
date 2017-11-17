@@ -23,7 +23,7 @@ In the olden days, we had a super inefficient method of snacking. Anyone wanting
 2. Walk around the store looking at all of the goodies.
 3. Choose a snack.
 4. Take it up to the register.
-5. Wait on line until it's our turn at the register.
+5. Wait in line until it's our turn at the register.
 6. Wait for the clerk to decide on a price.
 7. Hand over some money.
 8. Wait for the clerk to count the money, perform some quick math, open the cash drawer, deposit our money, and withdraw any change.
